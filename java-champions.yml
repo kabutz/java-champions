@@ -419,6 +419,7 @@ members:
       sessionize: https://sessionize.com/simonebordet
       twitter: https://twitter.com/simonebordet
       bluesky: https://bsky.app/profile/simonebordet.bsky.social
+      mastodon: https://mastodon.online/@simonebordet
     avatar: img/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
@@ -1102,7 +1103,7 @@ members:
     avatar: img/avatars/__DavidFlanagan.png
     status:
       - founding-member
-  - name: Ken Fogel
+  - name: Prof. Ken Fogel
     year: 2018
     country:
       nomination: Canada
@@ -1132,8 +1133,9 @@ members:
       nomination: Germany
     city: Ludwigsburg
     social:
-      twitter: https://twitter.com/TobiasFrech
+      mastodon: https://ijug.social/@TobiasFrech
       linkedin: https://www.linkedin.com/in/javaadministration/
+      github: https://github.com/JOpsDev
     avatar: img/avatars/TobiasFrech.png
   - name: Mario Fusco
     year: 2016
@@ -1175,10 +1177,16 @@ members:
     year: 2021
     country:
       nomination: USA
+      residence: USA
+    city: New York, New York
     social:
       twitter: https://twitter.com/gAmUssA
       bluesky: https://bsky.app/profile/gamussa.dev
-      linkedin: https://www.linkedin.com/in/vikgamov/
+      linkedin: https://linkedin.com/in/vikgamov
+      github: https://github.com/gamussa/
+      website: http://gamov.io/
+      sessionize: https://sessionize.com/vikgamov
+      youtube: https://www.youtube.com/@viktorgamov
     avatar: img/avatars/gAmUssA.png
   - name: Felipe Gaúcho
     year: 2010
@@ -1930,6 +1938,7 @@ members:
     city: Chorafakia, Chania, Crete
     social:
       twitter: https://twitter.com/heinzkabutz
+      mastodon: https://mastodon.social/@HeinzKabutz
       linkedin: https://www.linkedin.com/in/heinzkabutz
       github: https://github.com/kabutz
       website: https://www.javaspecialists.eu
@@ -3785,6 +3794,9 @@ members:
     social:
       twitter: https://twitter.com/tagir_valeev
       mastodon: https://mastodon.online/@tagir_valeev
+      linkedin: https://www.linkedin.com/in/tagir-valeev/
+      bluesky: https://bsky.app/profile/tagir-valeev.bsky.social
+      github: https://github.com/amaembo/
     avatar: img/avatars/tagir_valeev.png
   - name: Linda van der Pal
     year: 2013
