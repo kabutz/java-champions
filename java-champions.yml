@@ -935,8 +935,9 @@ members:
   - name: Kevin Dubois
     year: 2024
     country:
+      residence: Switzerland
       nomination: Belgium
-    city: Brussels
+    city: Val de Bagnes
     social:
       twitter: https://twitter.com/kevindubois
       linkedin: https://www.linkedin.com/in/kevindubois/
@@ -1087,6 +1088,16 @@ members:
       github: https://github.com/kittylyst
       website: https://www.kittylyst.com/
     avatar: img/avatars/kittylyst.png
+  - name: Stéphane Épardaud
+    year: 2025
+    country:
+      nomination: France
+    city: Nice
+    social:
+      twitter: https://x.com/UnFroMage
+      linkedin: https://www.linkedin.com/in/stephaneepardaud/
+      bluesky: https://bsky.app/profile/unfromage.bsky.social
+    avatar: img/avatars/UnFroMage.png
   - name: Yakov Fain
     year: 2005
     country:
@@ -1392,7 +1403,9 @@ members:
     year: 2016
     country:
       nomination: Sweden
+      residence: Sweden
       birth: Norway
+      citizenship: Norway
     city: Malmo
     social:
       twitter: https://twitter.com/ivar_grimstad
@@ -2907,6 +2920,18 @@ members:
     avatar: img/avatars/jppetines.png
     status:
       - founding-member
+  - name: Marc Philipp
+    year: 2025
+    country:
+      nomination: Germany
+    city: Karlsruhe
+    social:
+      mastodon: https://chaos.social/@marcphilipp
+      linkedin: https://www.linkedin.com/in/marcphilipp
+      bluesky: https://bsky.app/profile/marcphilipp.de
+      website: https://marcphilipp.de
+      speakerdeck: https://speakerdeck.com/marcphilipp
+    avatar: img/avatars/marcphilipp.png
   - name: Sean M. Phillips
     year: 2017
     country:
