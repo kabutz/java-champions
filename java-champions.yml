@@ -80,6 +80,18 @@ members:
       bluesky: https://bsky.app/profile/almaer.com
       linkedin: https://www.linkedin.com/in/dalmaer/
     avatar: img/avatars/dalmaer.png
+  - name: Altug Bilgin Altintas
+    year: 2026
+    country:
+      nomination: Türkiye
+    city: Istanbul
+    social:
+      twitter: https://x.com/altugaltintas
+      bluesky: https://bsky.app/profile/altuga.bsky.social
+      linkedin: https://www.linkedin.com/in/altuga/
+      github: https://github.com/altuga
+      sessionize: https://sessionize.com/Altuga/
+    avatar: img/avatars/altugaltintas.png
   - name: Andres Almiray
     year: 2010
     country:
@@ -187,6 +199,8 @@ members:
     year: 2020
     country:
       nomination: Spain
+      residence: Spain
+      birth: Spain
     city: Seville
     social:
       mastodon: https://floss.social/@delawen
@@ -195,7 +209,6 @@ members:
       github: https://github.com/Delawen/
       website: https://delawen.com
       sessionize: https://sessionize.com/delawen/
-      twitter: https://twitter.com/delawen
     avatar: img/avatars/delawen.png
   - name: Sergey Astakhov
     year: 2005
@@ -4044,7 +4057,7 @@ members:
       youtube: https://www.youtube.com/@michael-on-code
       linkedin: https://www.linkedin.com/in/michaelvitz/
       github: https://github.com/mvitz
-      website: https://mvitz.de
+      website: https://michael.vitz.me
       sessionize: https://sessionize.com/michaelvitz/
       xing: https://www.xing.com/profile/Michael_Vitz2
     avatar: img/avatars/michaelvitz.png
